@@ -3,5 +3,5 @@ Arduino Grapher
 
 Visualize Arduino inputs in Processing.
 
-![alt text][]
+![alt text][https://raw.githubusercontent.com/lssr/grapher/master/graph.png]
 
